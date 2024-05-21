@@ -98,10 +98,14 @@ The Earthquake and Tectonic Plates Visualization tool is designed to be intuitiv
 - **Toggling Layers**: Use the layer control located in the top right corner of the map to switch between different map backgrounds (e.g., Satellite and Grayscale) and to toggle the visibility of earthquakes and tectonic plates layers.
 - **Zooming and Panning**: Use your mouse or touchpad to zoom in and out of the map for a closer look at specific areas. Click and drag to pan across the map.
 
+![map_1](Images/map_1.png)
+
 ### Getting Detailed Information
 
 - **Earthquake Details**: Click on any earthquake marker to open a popup that provides detailed information about that earthquake, including location, magnitude, depth, and the exact time of occurrence.
 - **Tectonic Plates**: The tectonic plates layer shows the boundaries of the Earth’s plates. This layer can be enabled or disabled through the layer control. Understanding these boundaries can help correlate the locations of earthquakes with plate boundaries.
+
+![map_2](Images/map_2.png)
 
 ### Customizing the View
 
